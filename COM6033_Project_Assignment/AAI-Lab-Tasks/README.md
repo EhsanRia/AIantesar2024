@@ -1,3 +1,7 @@
+Above are the lab tasks I was tasked with throughout the module "COM6033-24/25-Applied Artificial Intelligence"
+
+Some information about the project 
+
 To help build this project, I used tools such as **Python**and **Flask**. I also used a student dataset that I found from a trusted source called the UCI Machine Learning Repository. This dataset uses binary classification to predict whether students will perform well or need assistance.
 
 To display the results, I used 2 HTML pages called index.html and predict.html which are put in a folder called "templates"
